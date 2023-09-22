@@ -90,7 +90,9 @@ Note: your Default Loadout may not be `Active` because you have moved mods aroun
 | *5.) Choose a fraction`* |
 | *6.) Select the units you want to save`* |
 | *7.) Create new loadout`* |
-    1. You have created a new specialized loadout
+
+5. You have created a new specialized loadout
+   
 | ![game](images/hotutils-reva-created.png) |
 | :--: |
 
